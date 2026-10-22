@@ -4,12 +4,7 @@
 
 | 路径 | 内容 |
 | --- | --- |
-| [`profiles-01-13.md`](profiles-01-13.md) | 01–13 标准设定档：称号、个性标签、原书页、外形与背景可确认要点（**以此为准**） |
-| [`monster-role-pack/01-角色档案全文.md`](monster-role-pack/01-角色档案全文.md) | 逐页转录全文（含大量「辨识不清」标记） |
-| [`monster-role-pack/02-性格与背景梳理.md`](monster-role-pack/02-性格与背景梳理.md) | 性格与背景梳理（暂定整理） |
-| [`monster-role-pack/03-角色档案.json`](monster-role-pack/03-角色档案.json) | 机器可读转录 |
-| [`monster-role-pack/manifest.json`](monster-role-pack/manifest.json) | 原转录包清单（其中列出的 `hermes/`、`grokbot/` 子目录未收入本仓库） |
-| [`monster-role-pack/识别限制与待补材料.md`](monster-role-pack/识别限制与待补材料.md) | 识别限制说明 |
+| [`profiles-01-13.md`](profiles-01-13.md) | 01–13 标准设定档：称号、个性标签、原书页、外形与背景要点 |
 | [`pages/`](pages/) | 扫描页：`p-NNN.jpg` 为跨页，`L`/`R` 为左右半页 |
 
 ## 扫描页对照
@@ -28,10 +23,8 @@
 | 10 | 火辣辣 Hot Hot | 120–121 | [p-009](pages/p-009.jpg) |
 | 11 | 咘蓝朵 Brando | 124–125 | [p-010](pages/p-010.jpg) |
 | 12 | 火泷果 Lying Fruit | 128–129 | [p-011](pages/p-011.jpg) |
-| 13 | 橙来迟了 Delay | 132 + 141（原件如此） | [p-012](pages/p-012.jpg) + [p-013](pages/p-013.jpg) |
+| 13 | 橙来迟了 Delay | 132 + 141 | [p-012](pages/p-012.jpg) + [p-013](pages/p-013.jpg) |
 
 ## 注意
 
-- 扫描小字看不清处统一标「待确认」，不猜。
-- 转录包中文名写作「晶晶」，本仓库正名用「瞐瞐」。
 - 扫描图为设定集版权内容，仅作个人存档参考。

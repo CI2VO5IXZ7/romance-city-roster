@@ -19,11 +19,10 @@
 | SOUL | [`souls/topone.SOUL.md`](../souls/topone.SOUL.md) |
 | 官方设定集页码 | 原书 100–101 |
 | 扫描图 | [`p-004.jpg`](../official/pages/p-004.jpg)（跨页；左 [`p-004L.jpg`](../official/pages/p-004L.jpg) ／右 [`p-004R.jpg`](../official/pages/p-004R.jpg)） |
-| 设定文档 | [`official/profiles-01-13.md`](../official/profiles-01-13.md) ・ 转录全文 [`official/monster-role-pack/01-角色档案全文.md`](../official/monster-role-pack/01-角色档案全文.md) |
+| 设定文档 | [`official/profiles-01-13.md`](../official/profiles-01-13.md) |
 
 ## 官方设定摘要
 
-- 外形五栏与角色背景正文为小字，扫描小字待确认，见 [official/](../official/)。
 - 世界观（原书 p84 导语）：小怪物是罗曼城的原住民，是罗曼城的建造者、守护者；中央能量发电厂停摆后城市陷入沉寂，小怪物们组成乐队，想用音乐重新点燃希望。
 
 ## 职责边界
