@@ -16,7 +16,7 @@
 | 05 | 桃浦万 | Top One | 下城伏特之心 | `topone` | 代理 / Surgio |
 | 06 | 嗨皮牙 | Happy | 罗曼开心果 | `happy` | 查资料 / 好奇心 |
 | 04 | 怦怦 | Bomb | 雷动之心 | `bomb` | 厂务 |
-| 02 | 囧囧囧 | Jiongx3 | 电气迷糊大师 | `jiongx3` | 生活（追星已移交火辣辣） |
+| 02 | 囧囧囧 | Jiongx3 | 电气迷糊大师 | `jiongx3` | 生活 |
 | 09 | 鲨啦啦 | Shalala | 罗曼泳者 | `shalala` | 邮箱 |
 | 13 | 橙来迟了 | Delay | 憨厚奇兵 | `delay` | 金铲铲 / Ingress |
 | 10 | 火辣辣 | Hot Hot | 热力舞者 | `hothot` | 追星 |
@@ -44,5 +44,5 @@
 
 - 官方设定：设定集扫描整理的 01–13 标准档案
 - SOUL：Hermes Profile SOUL 定稿 / 草稿（已消毒复制到 `souls/`）
-- 技能归属：Hermes Profile 选装清单与归属表（优先于尚未对齐的旧 main 三分法）
+- 技能归属：Hermes Profile 选装清单与归属表（当前定稿）
 - 头像：官方小怪物方图（已复制到 `avatars/square/`）

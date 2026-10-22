@@ -126,7 +126,7 @@ roles:
     hermes_profile: jiongx3
     grok_bot: 囧囧囧
     grok_bot_id: 5bd86f4e-8b82-4083-809f-79207c3195b3
-    duty: 生活（追星已移交火辣辣）
+    duty: 生活
     skills:
       - amap-trip-planning
       - qweather-data-source
