@@ -7,8 +7,8 @@ roles:
 - number: "07"
   zh: 酥坡曼
   en: Superman
-  title: 超电救世主（首字待确认，非「漏电」）
-  personality: 责任感意外很强（「意外」待确认）｜究极中二病患者｜自我攻略型救世主
+  title: 超电救世主
+  personality: 责任感意外很强｜究极中二病患者｜自我攻略型救世主
   birthday: "10-12"
   birthplace: 杭州
   official_book_pages:
@@ -26,8 +26,8 @@ roles:
 - number: "08"
   zh: 咘蕉绿
   en: Don't Worry
-  title: 淡定老法师（字形较糊，待确认）
-  personality: 老成持重｜大师智慧｜不惧虚（第3字待确认）本尊｜罗曼城传家宝
+  title: 淡定老法师
+  personality: 老成持重｜大师智慧｜不惧虚本尊｜罗曼城传家宝
   birthday: "10-25"
   birthplace: 上海
   official_book_pages:
@@ -48,7 +48,7 @@ roles:
   zh: 火泷果
   en: Lying Fruit
   title: 废土吐槽大师
-  personality: 吐槽役｜外萌内燃｜自我中心｜捣乱（待确认）玩伴｜间歇性热情（待确认）
+  personality: 吐槽役｜外萌内燃｜自我中心｜捣乱玩伴｜间歇性热情
   birthday: "03-21"
   birthplace: 北京
   official_book_pages:
@@ -71,7 +71,7 @@ roles:
 - number: "11"
   zh: 咘蓝朵
   en: Brando
-  title: 超能（待确认）体力王
+  title: 超能体力王
   personality: 力大无穷｜永不疲惫｜天生充电宝
   birthday: "12-06"
   birthplace: 苏州
@@ -139,7 +139,7 @@ roles:
   zh: 嗨皮牙
   en: Happy
   title: 罗曼开心果
-  personality: 超级外向（「超级」待确认）｜著名捣蛋鬼（「著名」待确认）｜情报百事通｜闲不住的话痨
+  personality: 超级外向｜著名捣蛋鬼｜情报百事通｜闲不住的话痨
   birthday: "09-27"
   birthplace: 天津
   official_book_pages:
@@ -160,7 +160,7 @@ roles:
   zh: 怦怦
   en: Bomb
   title: 雷动之心
-  personality: 罗曼城勤勉（后两字待确认）｜极具奉献精神（待确认）｜顽皮但不稳定（「顽皮」待确认）
+  personality: 罗曼城勤勉｜极具奉献精神｜顽皮但不稳定
   birthday: "08-31"
   birthplace: 合肥
   official_book_pages:
@@ -185,7 +185,7 @@ roles:
   zh: 囧囧囧
   en: Jiongx3
   title: 电气迷糊大师
-  personality: 迷糊善良｜充满好奇｜搞笑意外（「意外」待确认）｜潜藏创造力
+  personality: 迷糊善良｜充满好奇｜搞笑意外｜潜藏创造力
   birthday: "07-20"
   birthplace: 南京
   official_book_pages:
@@ -231,7 +231,7 @@ roles:
 - number: "13"
   zh: 橙来迟了
   en: Delay
-  title: 憨厚（待确认）奇兵
+  title: 憨厚奇兵
   personality: 独眼活宝｜人菜瘾大｜迷之自信｜气氛活化剂
   birthday: "04-11"
   birthplace: 合肥

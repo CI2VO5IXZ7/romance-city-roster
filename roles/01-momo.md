@@ -5,7 +5,7 @@
 | 字段 | 内容 |
 | --- | --- |
 | 编号 | 01 |
-| 中文名 | 瞐瞐（扫描字形似「晶晶」，正名用瞐瞐） |
+| 中文名 | 瞐瞐 |
 | 英文名 | Mo Mo |
 | 称号 | 心跳守护者 |
 | 官方个性 | 沉默感知｜极度敏感｜执念型温柔 |
@@ -19,7 +19,7 @@
 | SOUL | [`souls/momo.SOUL.md`](../souls/momo.SOUL.md) |
 | 官方设定集页码 | 原书 84–85 |
 | 扫描图 | [`p-000.jpg`](../official/pages/p-000.jpg)（跨页；左 [`p-000L.jpg`](../official/pages/p-000L.jpg) ／右 [`p-000R.jpg`](../official/pages/p-000R.jpg)） |
-| 设定文档 | [`official/profiles-01-13.md`](../official/profiles-01-13.md) ・ 转录全文 [`official/monster-role-pack/01-角色档案全文.md`](../official/monster-role-pack/01-角色档案全文.md) |
+| 设定文档 | [`official/profiles-01-13.md`](../official/profiles-01-13.md) |
 
 ## 官方设定摘要
 
