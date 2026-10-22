@@ -1,7 +1,6 @@
 # 消毒记录（SANITIZATION）
 
-扫描时间：2026-10-22（Asia/Shanghai）  
-范围：本资料包全树（含 `roles/`、`souls/`、`avatars/`、根目录 md/yaml）
+范围：本资料包全树（含 `roles/`、`souls/`、`avatars/`、`official/`、根目录 md/yaml）
 
 ## 查了什么
 
@@ -12,7 +11,7 @@
 - Telegram Bot token 形态（`Bot <digits>:<secret>`）
 - 已知敏感域名形态、内网/公网 IPv4
 - 常见邮箱明文（gmail / outlook / qq / 163 / icloud）
-- 本机绝对路径（`/workspace/…`、`/home/box/…`）
+- 本机绝对路径
 
 并对 `souls/brando.SOUL.md` 人工检查主机清单。
 
@@ -28,6 +27,13 @@
 | brando 管机主机名清单 | **已改写**：具体主机名不入库，改为「酥坡曼指定的自有主机…」 |
 | README / 归属表中的本机绝对路径 | **已去掉**，改为相对描述 |
 | 「token / 密钥 / .env」字样 | 仅出现在**禁止泄露**的政策句中，无具体值 |
+
+## official/ 检查
+
+- 覆盖 `official/profiles-01-13.md`、`official/monster-role-pack/`（md / json / manifest / 识别限制）与 `official/pages/` 扫描页（p-000 … p-013 及 L/R 半页）。
+- 文本已检索上述关键词：无 token、密钥、邮箱、IP。
+- 扫描图为设定集书页（角色插画与印刷文字），无密钥、无个人信息。
+- 仓库不记录群成员或群分组；`groups.md` 仅群聊用语与通用规矩。
 
 ## 结论
 
