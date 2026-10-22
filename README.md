@@ -21,7 +21,7 @@
 | 13 | 橙来迟了 | Delay | 憨厚奇兵 | `delay` | 金铲铲 / Ingress |
 | 10 | 火辣辣 | Hot Hot | 热力舞者 | `hothot` | 追星 |
 
-每人详情见 [`roles/`](roles/)，机器可读总表见 [`roster.yaml`](roster.yaml)，SOUL 定稿见 [`souls/`](souls/)，技能对照见 [`skills-ownership.md`](skills-ownership.md)，群成员与群规见 [`groups.md`](groups.md)，消毒记录见 [`SANITIZATION.md`](SANITIZATION.md)。
+每人详情见 [`roles/`](roles/)，机器可读总表见 [`roster.yaml`](roster.yaml)，SOUL 定稿见 [`souls/`](souls/)，技能对照见 [`skills-ownership.md`](skills-ownership.md)，群规见 [`groups.md`](groups.md)，消毒记录见 [`SANITIZATION.md`](SANITIZATION.md)。
 
 ## 群分工
 
