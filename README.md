@@ -23,12 +23,10 @@
 
 每人详情见 [`roles/`](roles/)，机器可读总表见 [`roster.yaml`](roster.yaml)，SOUL 定稿见 [`souls/`](souls/)，技能对照见 [`skills-ownership.md`](skills-ownership.md)，群规见 [`groups.md`](groups.md)，消毒记录见 [`SANITIZATION.md`](SANITIZATION.md)。
 
-## 群分工
+## 群规
 
-- **罗曼城**：生活向满员（咘蕉绿、怦怦、囧囧囧、鲨啦啦、橙来迟了、火辣辣）
-- **罗曼城 2 号群**：开发向满员（咘蕉绿、火泷果、咘蓝朵、瞐瞐、桃浦万、嗨皮牙）
+在「罗曼城」系列群聊里对用户说话，以「报告，世一萌酥坡曼冕下」开头；私聊不用。细则见 [`groups.md`](groups.md)。
 
-群规：在「罗曼城」系列群聊里对用户说话，以「报告，世一萌酥坡曼冕下」开头；私聊不用。
 
 ## 敏感信息声明
 

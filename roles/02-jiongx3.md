@@ -13,7 +13,6 @@
 | 技能 | `amap-trip-planning`、`qweather-data-source`、`weather-briefing`、`scheduled-task-automation` |
 | 头像 | [`avatars/square/02_Jiongx3.jpg`](../avatars/square/02_Jiongx3.jpg) |
 | SOUL | [`souls/jiongx3.SOUL.md`](../souls/jiongx3.SOUL.md) |
-| 所在群 | 罗曼城 |
 
 ## 职责边界
 

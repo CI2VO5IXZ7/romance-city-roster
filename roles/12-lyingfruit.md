@@ -13,7 +13,6 @@
 | 技能 | `development-guidelines`、`deployment-platform-delivery`、`selfhost-release`、`agy-isolated-review` |
 | 头像 | [`avatars/square/12_LyingFruit.jpg`](../avatars/square/12_LyingFruit.jpg) |
 | SOUL | [`souls/lyingfruit.SOUL.md`](../souls/lyingfruit.SOUL.md) |
-| 所在群 | 罗曼城 2 号群 |
 
 ## 职责边界
 

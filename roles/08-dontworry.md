@@ -13,7 +13,6 @@
 | 技能 | `scheduled-task-automation` |
 | 头像 | [`avatars/square/08_DontWorry.jpg`](../avatars/square/08_DontWorry.jpg) |
 | SOUL | [`souls/dontworry.SOUL.md`](../souls/dontworry.SOUL.md) |
-| 所在群 | 罗曼城、罗曼城 2 号群 |
 
 ## 职责边界
 

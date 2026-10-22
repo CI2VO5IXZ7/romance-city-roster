@@ -13,7 +13,6 @@
 | 技能 | `Bomb-corporate-mindmap`、`Bomb-ifp-mapping`、`Bomb-reporting`、`Bomb-sop-ehs-supplement`、`perplexity-search` |
 | 头像 | [`avatars/square/04_Bomb.jpg`](../avatars/square/04_Bomb.jpg) |
 | SOUL | [`souls/bomb.SOUL.md`](../souls/bomb.SOUL.md) |
-| 所在群 | 罗曼城 |
 
 ## 职责边界
 

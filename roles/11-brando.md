@@ -13,7 +13,6 @@
 | 技能 | `hermes-runtime-maintenance`、`selfhost-release`、`mihomo-rule-edit` |
 | 头像 | [`avatars/square/11_Brando.jpg`](../avatars/square/11_Brando.jpg) |
 | SOUL | [`souls/brando.SOUL.md`](../souls/brando.SOUL.md) |
-| 所在群 | 罗曼城 2 号群 |
 
 ## 职责边界
 

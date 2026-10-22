@@ -13,7 +13,6 @@
 | 技能 | `hermes-runtime-maintenance` |
 | 头像 | [`avatars/square/01_Momo.jpg`](../avatars/square/01_Momo.jpg) |
 | SOUL | [`souls/momo.SOUL.md`](../souls/momo.SOUL.md) |
-| 所在群 | 罗曼城 2 号群 |
 
 ## 职责边界
 

@@ -13,7 +13,6 @@
 | 技能 | `weibo-post-ops`、`xiaohongshu-post-ops`、`concert-map-ingest`、`song-catalog-verification` |
 | 头像 | [`avatars/square/10_Hothot.jpg`](../avatars/square/10_Hothot.jpg) |
 | SOUL | [`souls/hothot.SOUL.md`](../souls/hothot.SOUL.md) |
-| 所在群 | 罗曼城 |
 
 ## 职责边界
 

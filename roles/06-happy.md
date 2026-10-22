@@ -13,7 +13,6 @@
 | 技能 | `perplexity-search` |
 | 头像 | [`avatars/square/06_Happy.jpg`](../avatars/square/06_Happy.jpg) |
 | SOUL | [`souls/happy.SOUL.md`](../souls/happy.SOUL.md) |
-| 所在群 | 罗曼城 2 号群 |
 
 ## 职责边界
 

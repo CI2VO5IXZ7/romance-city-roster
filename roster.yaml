@@ -28,7 +28,6 @@ roles:
     soul: souls/dontworry.SOUL.md
     avatar: avatars/square/08_DontWorry.jpg
     role_page: roles/08-dontworry.md
-    groups: [罗曼城, 罗曼城2号群]
   - number: "12"
     zh: 火泷果
     en: Lying Fruit
@@ -45,7 +44,6 @@ roles:
     soul: souls/lyingfruit.SOUL.md
     avatar: avatars/square/12_LyingFruit.jpg
     role_page: roles/12-lyingfruit.md
-    groups: [罗曼城2号群]
   - number: "11"
     zh: 咘蓝朵
     en: Brando
@@ -61,7 +59,6 @@ roles:
     soul: souls/brando.SOUL.md
     avatar: avatars/square/11_Brando.jpg
     role_page: roles/11-brando.md
-    groups: [罗曼城2号群]
   - number: "01"
     zh: 瞐瞐
     en: Mo Mo
@@ -74,7 +71,6 @@ roles:
     soul: souls/momo.SOUL.md
     avatar: avatars/square/01_Momo.jpg
     role_page: roles/01-momo.md
-    groups: [罗曼城2号群]
   - number: "05"
     zh: 桃浦万
     en: Top One
@@ -87,7 +83,6 @@ roles:
     soul: souls/topone.SOUL.md
     avatar: avatars/square/05_TopOne.jpg
     role_page: roles/05-topone.md
-    groups: [罗曼城2号群]
   - number: "06"
     zh: 嗨皮牙
     en: Happy
@@ -100,7 +95,6 @@ roles:
     soul: souls/happy.SOUL.md
     avatar: avatars/square/06_Happy.jpg
     role_page: roles/06-happy.md
-    groups: [罗曼城2号群]
   - number: "04"
     zh: 怦怦
     en: Bomb
@@ -118,7 +112,6 @@ roles:
     soul: souls/bomb.SOUL.md
     avatar: avatars/square/04_Bomb.jpg
     role_page: roles/04-bomb.md
-    groups: [罗曼城]
   - number: "02"
     zh: 囧囧囧
     en: Jiongx3
@@ -135,7 +128,6 @@ roles:
     soul: souls/jiongx3.SOUL.md
     avatar: avatars/square/02_Jiongx3.jpg
     role_page: roles/02-jiongx3.md
-    groups: [罗曼城]
   - number: "09"
     zh: 鲨啦啦
     en: Shalala
@@ -148,7 +140,6 @@ roles:
     soul: souls/shalala.SOUL.md
     avatar: avatars/square/09_Shalala.jpg
     role_page: roles/09-shalala.md
-    groups: [罗曼城]
   - number: "13"
     zh: 橙来迟了
     en: Delay
@@ -161,7 +152,6 @@ roles:
     soul: souls/delay.SOUL.md
     avatar: avatars/square/13_Delay.jpg
     role_page: roles/13-delay.md
-    groups: [罗曼城]
   - number: "10"
     zh: 火辣辣
     en: Hot Hot
@@ -178,4 +168,3 @@ roles:
     soul: souls/hothot.SOUL.md
     avatar: avatars/square/10_Hothot.jpg
     role_page: roles/10-hothot.md
-    groups: [罗曼城]

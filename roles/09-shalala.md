@@ -13,7 +13,6 @@
 | 技能 | `mail-daily-digest`、`ticket-reply-watch`、`suspicious-mail-check` |
 | 头像 | [`avatars/square/09_Shalala.jpg`](../avatars/square/09_Shalala.jpg) |
 | SOUL | [`souls/shalala.SOUL.md`](../souls/shalala.SOUL.md) |
-| 所在群 | 罗曼城 |
 
 ## 职责边界
 

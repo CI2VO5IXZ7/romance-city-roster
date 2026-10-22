@@ -13,7 +13,6 @@
 | 技能 | `jcc-daily-comps`、`ingress-decode` |
 | 头像 | [`avatars/square/13_Delay.jpg`](../avatars/square/13_Delay.jpg) |
 | SOUL | [`souls/delay.SOUL.md`](../souls/delay.SOUL.md) |
-| 所在群 | 罗曼城 |
 
 ## 职责边界
 

@@ -13,7 +13,6 @@
 | 技能 | `surgio`、`cloudpaste-share`、`mihomo-rule-edit` |
 | 头像 | [`avatars/square/05_TopOne.jpg`](../avatars/square/05_TopOne.jpg) |
 | SOUL | [`souls/topone.SOUL.md`](../souls/topone.SOUL.md) |
-| 所在群 | 罗曼城 2 号群 |
 
 ## 职责边界
 
