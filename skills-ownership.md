@@ -1,7 +1,6 @@
 # Profile → 技能对照
 
-> 来源优先：Hermes Profile 选装清单与归属表（2026-10-22 已按「该是谁的技能就归谁」改对）。  
-> 说明：旧 main 三分法清单不以之为准。  
+> 当前定稿（2026-10-22 Asia/Shanghai）：该是谁的技能就归谁。  
 > 共享技能主责：`selfhost-release`→lyingfruit，`mihomo-rule-edit`→topone，`hermes-runtime-maintenance`→brando，`perplexity-search`→happy，`scheduled-task-automation`→default。
 
 | Hermes Profile | 角色 | 技能 |
@@ -17,14 +16,3 @@
 | `shalala` | 鲨啦啦 | `mail-daily-digest`、`ticket-reply-watch`、`suspicious-mail-check` |
 | `delay` | 橙来迟了 | `jcc-daily-comps`、`ingress-decode` |
 | `hothot` | 火辣辣 | `weibo-post-ops`、`xiaohongshu-post-ops`、`concert-map-ingest`、`song-catalog-verification` |
-
-## 移交说明
-
-- 追星相关技能（微博 / 小红书 / 演唱会足迹 / 曲库）归属 **hothot（火辣辣）**；不再挂在 jiongx3。
-- 邮箱三技能归属 **shalala**；不再挂在 default/main。
-- 金铲铲与 Ingress 归属 **delay**；不再挂在 default/main。
-- 代理三技能归属 **topone**；不再挂在 default/main。
-
-## 与 SOUL 正文
-
-- `souls/jiongx3.SOUL.md` 仍可能残留微博/小红书操作描述；**执行以本表为准**，SOUL 正文待后续与技能同步修订。
